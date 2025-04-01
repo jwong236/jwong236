@@ -15,22 +15,15 @@
 </div>
   
 <div align="center">
+  
+  <br>
 
-<br/>
+  ### Hello, welcome to my GitHub! My name is Jacob and I am a software developer, gamer, coffee addict, gym bro and Pokemon lover. I basically exist in three places: at my PC, the gym, and a local cafe.
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║  Hello, welcome to my GitHub! My name is Jacob and I am a software           ║
-║  developer, gamer, coffee addict, gym bro and Pokemon lover. I basically     ║
-║  exist in three places: at my PC, the gym, and a local cafe.                 ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
+  <br/>
+  
 </div>
+
   
 <div align="center">
   <a href="https://www.linkedin.com/in/jwong236/" target="_blank" rel="noopener noreferrer">
