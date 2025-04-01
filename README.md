@@ -8,14 +8,14 @@
 <div align="center">
   <h2>About Me</h2>
   
-<div>
-  <div align="center" style="display: inline-block; margin: 0 10px;">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <div style="display: inline-block; margin: 0 10px;">
     <img src="https://img.shields.io/badge/Location-Walnut,_CA-3B82F6?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
   </div>
-  <div align="center" style="display: inline-block; margin: 0 10px;">
+  <div style="display: inline-block; margin: 0 10px;">
     <img src="https://img.shields.io/badge/Education-UC_Irvine_(CS)-6366F1?style=for-the-badge&logo=academia&logoColor=white" alt="Education" />
   </div>
-  <div align="center" style="display: inline-block; margin: 0 10px;">
+  <div style="display: inline-block; margin: 0 10px;">
     <img src="https://img.shields.io/badge/Phone-626--384--6780-1E3A8A?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
   </div>
 </div>
@@ -24,18 +24,18 @@
   <p align="center"> Hello, welcome to my GitHub! My name is Jacob and I am a software developer, gamer, coffee addict, gym bro and Pokemon lover. I basically exist in three places: at my PC, the gym, and a local cafe. </p>
 </div>
   
-<div>
-  <div align="center" style="display: inline-block; margin: 0 10px;">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <div style="display: inline-block; margin: 0 10px;">
     <a href="https://www.linkedin.com/in/jwong236/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/-LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </div>
-  <div align="center" style="display: inline-block; margin: 0 10px;">
+  <div style="display: inline-block; margin: 0 10px;">
     <a href="https://jwong236.github.io/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>
   </div>
-  <div align="center" style="display: inline-block; margin: 0 10px;">
+  <div style="display: inline-block; margin: 0 10px;">
     <img src="https://img.shields.io/badge/Email-jacobsunsetbluff@gmail.com-6366F1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </div>
 </div>
