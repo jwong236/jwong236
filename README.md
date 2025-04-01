@@ -4,19 +4,34 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Software+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
-## 📊 GitHub Activity
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jwong236&theme=radical" alt="Contribution Summary" />
-</div>
+
 
 ## 👨‍💻 About Me
 
 I'm a software developer focused on creating solutions to real-world problems, with an emphasis on user experience and building practical tools. With a versatile "toolbox" of skills in full-stack development, I develop applications that enhance productivity and deliver meaningful results.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jwong236/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacobsunsetbluff@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jwong236)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=github-pages&logoColor=white)](https://jwong236.github.io/)
+<div align="center">
+  <a href="https://www.linkedin.com/in/jwong236/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:jacobsunsetbluff@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/jwong236">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://jwong236.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=github-pages&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
+## 📊 GitHub Activity
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jwong236&theme=radical" alt="Contribution Summary" />
+</div>
 
 ## 🚀 Featured Projects
 
@@ -25,17 +40,17 @@ Check out my [portfolio website](https://jwong236.github.io/) for detailed proje
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px; margin-bottom: 20px;">
   <div style="flex: 1; min-width: 250px; border: 1px solid #444; border-radius: 8px; padding: 16px; text-align: center;">
     <h3><a href="https://github.com/jwong236/enterprise-metric-analysis-tool">Enterprise Metric Analysis Tool</a></h3>
-    <p>Data visualization platform for Scrum team performance metrics</p>
+    <p>(Project for SAP) Data visualization platform for Scrum team performance metrics</p>
   </div>
   
   <div style="flex: 1; min-width: 250px; border: 1px solid #444; border-radius: 8px; padding: 16px; text-align: center;">
     <h3><a href="https://github.com/jwong236/film-flicks">Film Flicks</a></h3>
-    <p>Modern web application for movie discovery and discussion</p>
+    <p>Movie discovery search engine and simulated checkout system.</p>
   </div>
   
   <div style="flex: 1; min-width: 250px; border: 1px solid #444; border-radius: 8px; padding: 16px; text-align: center;">
     <h3><a href="https://github.com/jwong236/restaurant-authority-network">Restaurant Authority Network</a></h3>
-    <p>Analytics tool for identifying influential restaurants based on web mentions</p>
+    <p>Analytics tool for identifying influential restaurants based on web mentions and authority scores.</p>
   </div>
 </div>
 
