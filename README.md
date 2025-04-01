@@ -24,20 +24,14 @@
   <p align="center"> Hello, welcome to my GitHub! My name is Jacob and I am a software developer, gamer, coffee addict, gym bro and Pokemon lover. I basically exist in three places: at my PC, the gym, and a local cafe. </p>
 </div>
   
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <div style="display: inline-block; margin: 0 10px;">
-    <a href="https://www.linkedin.com/in/jwong236/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/-LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </div>
-  <div style="display: inline-block; margin: 0 10px;">
-    <a href="https://jwong236.github.io/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-    </a>
-  </div>
-  <div style="display: inline-block; margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Email-jacobsunsetbluff@gmail.com-6366F1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/jwong236/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://jwong236.github.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <img src="https://img.shields.io/badge/Email-jacobsunsetbluff@gmail.com-6366F1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </div>
   
 <div align="center" style="margin-top: 10px;">
