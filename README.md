@@ -8,25 +8,25 @@
 <div align="center">
   <h2>About Me</h2>
   
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Name-Jacob_Wong-1E3A8A?style=for-the-badge&logoColor=white" alt="Name" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Location-Walnut,_CA-3B82F6?style=for-the-badge&logoColor=white" alt="Location" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Education-UC_Irvine_(CS)-6366F1?style=for-the-badge&logoColor=white" alt="Education" />
-      </td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Location-Walnut,_CA-3B82F6?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Education-UC_Irvine_(CS)-6366F1?style=for-the-badge&logo=academia&logoColor=white" alt="Education" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Phone-626--384--6780-1E3A8A?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+    </td>
+  </tr>
+</table>
   
   <table>
     <tr>
       <td>
         <div style="border-width: 2px; border-style: solid; border-image: linear-gradient(45deg, #1E3A8A, #3B82F6, #6366F1, #8B5CF6) 1; border-radius: 10px; padding: 15px; box-shadow: 0 0 15px rgba(59, 130, 246, 0.5); background: rgba(255, 255, 255, 0.1);">
-          <p align="center">I'm a software developer focused on creating solutions to real-world problems, with an emphasis on user experience and building practical tools. With a versatile "toolbox" of skills in full-stack development, I develop applications that enhance productivity and deliver meaningful results.</p>
+          <p align="center"> Hello, welcome to my GitHub! My name is Jacob and I am a software developer, gamer, coffee addict, gym bro and Pokemon lover. I basically exist in three places: at my PC, the gym, and a local cafe. </p>
         </div>
       </td>
     </tr>
@@ -68,7 +68,7 @@
     <tr>
       <td>
         <h2 align="center">📊 GitHub Activity</h2>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jwong236&theme=radical" alt="Contribution Summary" width="100%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jwong236&theme=tokyonight" alt="Contribution Summary" width="100%" />
       </td>
     </tr>
   </table>
