@@ -68,9 +68,9 @@ An analytics tool for identifying influential restaurants based on web mentions.
 ## 📄 Resume
 [View my resume](resume.pdf)
 
-## ⏱️ Coding Stats
+## 📊 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jwong236&theme=radical" alt="WakaTime Coding Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jwong236&theme=radical" alt="Contribution Summary" />
 </div>
 
 ---
