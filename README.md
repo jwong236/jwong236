@@ -15,15 +15,21 @@
 </div>
   
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" style="border: none; background: linear-gradient(90deg, #1E3A8A, #3B82F6, #6366F1, #8B5CF6, #A855F7); padding: 1px; border-radius: 10px;">
-        <div style="background-color: #0D1117; border-radius: 9px; padding: 15px; margin: 15px">
-          <p align="center"> Hello, welcome to my GitHub! My name is Jacob and I am a software developer, gamer, coffee addict, gym bro and Pokemon lover. I basically exist in three places: at my PC, the gym, and a local cafe. </p>
-        </div>
-      </td>
-    </tr>
-  </table>
+
+<br/>
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║  Hello, welcome to my GitHub! My name is Jacob and I am a software           ║
+║  developer, gamer, coffee addict, gym bro and Pokemon lover. I basically     ║
+║  exist in three places: at my PC, the gym, and a local cafe.                 ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
 </div>
   
 <div align="center">
@@ -112,13 +118,13 @@
   <h3>DevOps & Tools</h3>
   <p align="center">
     <img src="https://img.shields.io/badge/AWS-1E3A8A?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+    <img src="https://img.shields.io/badge/Vercel-1E3A8A?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
     <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+    <img src="https://img.shields.io/badge/Google_Cloud-3B82F6?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
     <img src="https://img.shields.io/badge/Docker-6366F1?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Render-6366F1?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
     <img src="https://img.shields.io/badge/JMeter-8B5CF6?style=for-the-badge&logo=apache&logoColor=white" alt="JMeter" />
     <img src="https://img.shields.io/badge/Heroku-A855F7?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
-    <img src="https://img.shields.io/badge/Vercel-1E3A8A?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-    <img src="https://img.shields.io/badge/Google_Cloud-3B82F6?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
-    <img src="https://img.shields.io/badge/Render-6366F1?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
   </p>
 </div>
 
