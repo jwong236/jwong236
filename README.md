@@ -8,16 +8,10 @@
 <div align="center">
   <h2>About Me</h2>
   
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <div style="display: inline-block; margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Location-Walnut,_CA-3B82F6?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
-  </div>
-  <div style="display: inline-block; margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Education-UC_Irvine_(CS)-6366F1?style=for-the-badge&logo=academia&logoColor=white" alt="Education" />
-  </div>
-  <div style="display: inline-block; margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Phone-626--384--6780-1E3A8A?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
-  </div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Location-Walnut,_CA-3B82F6?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Education-UC_Irvine_(CS)-6366F1?style=for-the-badge&logo=academia&logoColor=white" alt="Education" />
+  <img src="https://img.shields.io/badge/Phone-626--384--6780-1E3A8A?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
 </div>
   
 <div style="border-radius: 10px; padding: 15px; background: rgba(255, 255, 255, 0.1);">
