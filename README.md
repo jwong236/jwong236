@@ -1,72 +1,72 @@
 # Welcome to my GitHub!
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,24&height=170&section=header&text=Jacob%20Wong&fontSize=40&fontAlignY=35&animation=twinkling&desc=Software%20Developer%20|%20Problem%20Solver%20|%20Communicator%20&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1E3A8A,3B82F6,6366F1,8B5CF6,A855F7&height=170&section=header&text=Jacob%20Wong&fontSize=40&fontAlignY=35&animation=twinkling&desc=Software%20Developer%20|%20Problem%20Solver%20|%20Communicator%20&descAlignY=60" width="100%"/>
 </div>
 
 <!-- About Me Panel -->
 <div align="center">
   <h2>About Me</h2>
   
-<table>
-  <tr>
-    <td align="center">
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td align="center" style="border: none;">
       <img src="https://img.shields.io/badge/Location-Walnut,_CA-3B82F6?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
     </td>
-    <td align="center">
+    <td align="center" style="border: none;">
       <img src="https://img.shields.io/badge/Education-UC_Irvine_(CS)-6366F1?style=for-the-badge&logo=academia&logoColor=white" alt="Education" />
     </td>
-    <td align="center">
+    <td align="center" style="border: none;">
       <img src="https://img.shields.io/badge/Phone-626--384--6780-1E3A8A?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
     </td>
   </tr>
 </table>
   
-  <table>
-    <tr>
-      <td>
-        <div style="border-width: 2px; border-style: solid; border-image: linear-gradient(45deg, #1E3A8A, #3B82F6, #6366F1, #8B5CF6) 1; border-radius: 10px; padding: 15px; box-shadow: 0 0 15px rgba(59, 130, 246, 0.5); background: rgba(255, 255, 255, 0.1);">
-          <p align="center"> Hello, welcome to my GitHub! My name is Jacob and I am a software developer, gamer, coffee addict, gym bro and Pokemon lover. I basically exist in three places: at my PC, the gym, and a local cafe. </p>
-        </div>
-      </td>
-    </tr>
-  </table>
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <div style="border-radius: 10px; padding: 15px; background: rgba(255, 255, 255, 0.1);">
+        <p align="center"> Hello, welcome to my GitHub! My name is Jacob and I am a software developer, gamer, coffee addict, gym bro and Pokemon lover. I basically exist in three places: at my PC, the gym, and a local cafe. </p>
+      </div>
+    </td>
+  </tr>
+</table>
   
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://www.linkedin.com/in/jwong236/" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/-LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://jwong236.github.io/" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-        </a>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Email-jacobsunsetbluff@gmail.com-6366F1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-      </td>
-    </tr>
-  </table>
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td align="center" style="border: none;">
+      <a href="https://www.linkedin.com/in/jwong236/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/-LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+    </td>
+    <td align="center" style="border: none;">
+      <a href="https://jwong236.github.io/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+      </a>
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://img.shields.io/badge/Email-jacobsunsetbluff@gmail.com-6366F1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </td>
+  </tr>
+</table>
   
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://komarev.com/ghpvc/?username=jwong236&color=6366F1" alt="Profile Views" />
-        <img src="https://img.shields.io/github/followers/jwong236?label=Followers&style=social" alt="GitHub Followers" />
-      </td>
-    </tr>
-  </table>
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td align="center" style="border: none;">
+      <img src="https://komarev.com/ghpvc/?username=jwong236&color=6366F1" alt="Profile Views" />
+      <img src="https://img.shields.io/github/followers/jwong236?label=Followers&style=social" alt="GitHub Followers" />
+    </td>
+  </tr>
+</table>
 </div>
 
 <br>
 
 <!-- GitHub Activity Panel -->
 <div align="center">
-  <table>
-    <tr>
-      <td>
+  <table style="border: none; border-collapse: collapse;">
+    <tr style="border: none;">
+      <td style="border: none;">
         <h2 align="center">📊 GitHub Activity</h2>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jwong236&theme=tokyonight" alt="Contribution Summary" width="100%" />
       </td>
@@ -82,20 +82,20 @@
   <i>Check out my <a href="https://jwong236.github.io/">portfolio website</a> for detailed project descriptions and demos.</i>
   <br><br>
   
-  <table>
-    <tr>
+  <table style="border: none; border-collapse: collapse;">
+    <tr style="border: none;">
       <!-- Project 1 -->
-      <td width="33%" align="center">
+      <td width="33%" align="center" style="border: none;">
         <h3><a href="https://github.com/jwong236/enterprise-metric-analysis-tool">Enterprise Metric Analysis Tool</a></h3>
         <p>(Project for SAP) Data visualization platform for Scrum team performance metrics</p>
       </td>
       <!-- Project 2 -->
-      <td width="33%" align="center">
+      <td width="33%" align="center" style="border: none;">
         <h3><a href="https://github.com/jwong236/film-flicks">Film Flicks</a></h3>
         <p>Movie discovery search engine and simulated checkout system.</p>
       </td>
       <!-- Project 3 -->
-      <td width="33%" align="center">
+      <td width="33%" align="center" style="border: none;">
         <h3><a href="https://github.com/jwong236/restaurant-authority-network">Restaurant Authority Network</a></h3>
         <p>Analytics tool for identifying influential restaurants based on web mentions and authority scores.</p>
       </td>
@@ -152,9 +152,9 @@
 
 <!-- Resume Panel -->
 <div align="center">
-  <table>
-    <tr>
-      <td>
+  <table style="border: none; border-collapse: collapse;">
+    <tr style="border: none;">
+      <td style="border: none;">
         <h2 align="center">📄 Resume</h2>
         <div align="center">
           <a href="Jacob_Wong_resume.pdf" target="_blank">
@@ -169,7 +169,7 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,24&height=100&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1E3A8A,3B82F6,6366F1,8B5CF6,A855F7&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
 
 ⭐️ From [@jwong236](https://github.com/jwong236)
