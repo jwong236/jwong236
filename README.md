@@ -22,15 +22,9 @@
   </tr>
 </table>
   
-<table style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td style="border: none;">
-      <div style="border-radius: 10px; padding: 15px; background: rgba(255, 255, 255, 0.1);">
-        <p align="center"> Hello, welcome to my GitHub! My name is Jacob and I am a software developer, gamer, coffee addict, gym bro and Pokemon lover. I basically exist in three places: at my PC, the gym, and a local cafe. </p>
-      </div>
-    </td>
-  </tr>
-</table>
+<div style="border-radius: 10px; padding: 15px; background: rgba(255, 255, 255, 0.1);">
+  <p align="center"> Hello, welcome to my GitHub! My name is Jacob and I am a software developer, gamer, coffee addict, gym bro and Pokemon lover. I basically exist in three places: at my PC, the gym, and a local cafe. </p>
+</div>
   
 <table style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
