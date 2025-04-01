@@ -8,64 +8,50 @@
 <div align="center">
   <h2>About Me</h2>
   
-<table style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td align="center" style="border: none;">
-      <img src="https://img.shields.io/badge/Location-Walnut,_CA-3B82F6?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://img.shields.io/badge/Education-UC_Irvine_(CS)-6366F1?style=for-the-badge&logo=academia&logoColor=white" alt="Education" />
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://img.shields.io/badge/Phone-626--384--6780-1E3A8A?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
-    </td>
-  </tr>
-</table>
+<div>
+  <div align="center" style="display: inline-block; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Location-Walnut,_CA-3B82F6?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+  </div>
+  <div align="center" style="display: inline-block; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Education-UC_Irvine_(CS)-6366F1?style=for-the-badge&logo=academia&logoColor=white" alt="Education" />
+  </div>
+  <div align="center" style="display: inline-block; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Phone-626--384--6780-1E3A8A?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+  </div>
+</div>
   
 <div style="border-radius: 10px; padding: 15px; background: rgba(255, 255, 255, 0.1);">
   <p align="center"> Hello, welcome to my GitHub! My name is Jacob and I am a software developer, gamer, coffee addict, gym bro and Pokemon lover. I basically exist in three places: at my PC, the gym, and a local cafe. </p>
 </div>
   
-<table style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td align="center" style="border: none;">
-      <a href="https://www.linkedin.com/in/jwong236/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/-LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-    </td>
-    <td align="center" style="border: none;">
-      <a href="https://jwong236.github.io/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-      </a>
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://img.shields.io/badge/Email-jacobsunsetbluff@gmail.com-6366F1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </td>
-  </tr>
-</table>
+<div>
+  <div align="center" style="display: inline-block; margin: 0 10px;">
+    <a href="https://www.linkedin.com/in/jwong236/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/-LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </div>
+  <div align="center" style="display: inline-block; margin: 0 10px;">
+    <a href="https://jwong236.github.io/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    </a>
+  </div>
+  <div align="center" style="display: inline-block; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Email-jacobsunsetbluff@gmail.com-6366F1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </div>
+</div>
   
-<table style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td align="center" style="border: none;">
-      <img src="https://komarev.com/ghpvc/?username=jwong236&color=6366F1" alt="Profile Views" />
-      <img src="https://img.shields.io/github/followers/jwong236?label=Followers&style=social" alt="GitHub Followers" />
-    </td>
-  </tr>
-</table>
+<div align="center" style="margin-top: 10px;">
+  <img src="https://komarev.com/ghpvc/?username=jwong236&color=6366F1" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/jwong236?label=Followers&style=social" alt="GitHub Followers" />
+</div>
 </div>
 
 <br>
 
 <!-- GitHub Activity Panel -->
 <div align="center">
-  <table style="border: none; border-collapse: collapse;">
-    <tr style="border: none;">
-      <td style="border: none;">
-        <h2 align="center">📊 GitHub Activity</h2>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jwong236&theme=tokyonight" alt="Contribution Summary" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <h2>📊 GitHub Activity</h2>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jwong236&theme=tokyonight" alt="Contribution Summary" width="100%" />
 </div>
 
 <br>
@@ -76,25 +62,23 @@
   <i>Check out my <a href="https://jwong236.github.io/">portfolio website</a> for detailed project descriptions and demos.</i>
   <br><br>
   
-  <table style="border: none; border-collapse: collapse;">
-    <tr style="border: none;">
-      <!-- Project 1 -->
-      <td width="33%" align="center" style="border: none;">
-        <h3><a href="https://github.com/jwong236/enterprise-metric-analysis-tool">Enterprise Metric Analysis Tool</a></h3>
-        <p>(Project for SAP) Data visualization platform for Scrum team performance metrics</p>
-      </td>
-      <!-- Project 2 -->
-      <td width="33%" align="center" style="border: none;">
-        <h3><a href="https://github.com/jwong236/film-flicks">Film Flicks</a></h3>
-        <p>Movie discovery search engine and simulated checkout system.</p>
-      </td>
-      <!-- Project 3 -->
-      <td width="33%" align="center" style="border: none;">
-        <h3><a href="https://github.com/jwong236/restaurant-authority-network">Restaurant Authority Network</a></h3>
-        <p>Analytics tool for identifying influential restaurants based on web mentions and authority scores.</p>
-      </td>
-    </tr>
-  </table>
+  <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+    <!-- Project 1 -->
+    <div style="width: 30%; min-width: 250px; margin: 10px; text-align: center;">
+      <h3><a href="https://github.com/jwong236/enterprise-metric-analysis-tool">Enterprise Metric Analysis Tool</a></h3>
+      <p>(Project for SAP) Data visualization platform for Scrum team performance metrics</p>
+    </div>
+    <!-- Project 2 -->
+    <div style="width: 30%; min-width: 250px; margin: 10px; text-align: center;">
+      <h3><a href="https://github.com/jwong236/film-flicks">Film Flicks</a></h3>
+      <p>Movie discovery search engine and simulated checkout system.</p>
+    </div>
+    <!-- Project 3 -->
+    <div style="width: 30%; min-width: 250px; margin: 10px; text-align: center;">
+      <h3><a href="https://github.com/jwong236/restaurant-authority-network">Restaurant Authority Network</a></h3>
+      <p>Analytics tool for identifying influential restaurants based on web mentions and authority scores.</p>
+    </div>
+  </div>
 </div>
 
 <br>
@@ -146,18 +130,12 @@
 
 <!-- Resume Panel -->
 <div align="center">
-  <table style="border: none; border-collapse: collapse;">
-    <tr style="border: none;">
-      <td style="border: none;">
-        <h2 align="center">📄 Resume</h2>
-        <div align="center">
-          <a href="Jacob_Wong_resume.pdf" target="_blank">
-            <img src="https://img.shields.io/badge/View_My_Resume-3B82F6?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" />
-          </a>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <h2>📄 Resume</h2>
+  <div align="center">
+    <a href="Jacob_Wong_resume.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/View_My_Resume-3B82F6?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" />
+    </a>
+  </div>
 </div>
 
 <br>
