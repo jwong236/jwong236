@@ -4,6 +4,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Software+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
+## 📊 GitHub Activity
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jwong236&theme=radical" alt="Contribution Summary" />
+</div>
+
 ## 👨‍💻 About Me
 
 I'm a software developer focused on creating solutions to real-world problems, with an emphasis on user experience and building practical tools. With a versatile "toolbox" of skills in full-stack development, I develop applications that enhance productivity and deliver meaningful results.
@@ -17,25 +22,22 @@ I'm a software developer focused on creating solutions to real-world problems, w
 
 Check out my [portfolio website](https://jwong236.github.io/) for detailed project descriptions and demos.
 
-### [Enterprise Metric Analysis Tool](https://github.com/jwong236/enterprise-metric-analysis-tool)
-A data visualization platform for Scrum team performance metrics.
-
-- **Tech Stack**: React, Flask, jQuery
-- **Key Features**: Analysis of 7 key engineering metrics, data-driven retrospectives
-- **Deployment**: [Live Demo](https://enterprise-metric-analysis-tool.vercel.app)
-
-### [Film Flicks](https://github.com/jwong236/film-flicks)
-A modern web application for movie discovery and discussion.
-
-- **Tech Stack**: React, Spring Boot, MySQL
-- **Key Features**: Movie search, user authentication, responsive design
-- **Deployment**: [Live Demo](https://film-flicks.vercel.app)
-
-### [Restaurant Authority Network](https://github.com/jwong236/restaurant-authority-network)
-An analytics tool for identifying influential restaurants based on web mentions.
-
-- **Tech Stack**: Python, Multi-threading, ML, NER models
-- **Key Features**: Self-feeding data pipeline, credibility evaluation, 100,000+ restaurant citations
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px; margin-bottom: 20px;">
+  <div style="flex: 1; min-width: 250px; border: 1px solid #444; border-radius: 8px; padding: 16px; text-align: center;">
+    <h3><a href="https://github.com/jwong236/enterprise-metric-analysis-tool">Enterprise Metric Analysis Tool</a></h3>
+    <p>Data visualization platform for Scrum team performance metrics</p>
+  </div>
+  
+  <div style="flex: 1; min-width: 250px; border: 1px solid #444; border-radius: 8px; padding: 16px; text-align: center;">
+    <h3><a href="https://github.com/jwong236/film-flicks">Film Flicks</a></h3>
+    <p>Modern web application for movie discovery and discussion</p>
+  </div>
+  
+  <div style="flex: 1; min-width: 250px; border: 1px solid #444; border-radius: 8px; padding: 16px; text-align: center;">
+    <h3><a href="https://github.com/jwong236/restaurant-authority-network">Restaurant Authority Network</a></h3>
+    <p>Analytics tool for identifying influential restaurants based on web mentions</p>
+  </div>
+</div>
 
 ## 💻 Tech Stack
 
@@ -67,11 +69,6 @@ An analytics tool for identifying influential restaurants based on web mentions.
 
 ## 📄 Resume
 [View my resume](resume.pdf)
-
-## 📊 GitHub Activity
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jwong236&theme=radical" alt="Contribution Summary" />
-</div>
 
 ---
 
