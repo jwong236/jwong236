@@ -1,7 +1,7 @@
-# Welcome to my GitHub!
+# Welcome!
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1E3A8A,3B82F6,6366F1,8B5CF6,A855F7&height=170&section=header&text=Jacob%20Wong&fontSize=40&fontAlignY=35&animation=twinkling&desc=Software%20Developer%20|%20Problem%20Solver%20|%20Communicator%20&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1E3A8A,3B82F6,6366F1,8B5CF6,A855F7&height=170&section=header&text=Jacob%20Wong&fontSize=40&fontAlignY=35&animation=twinkling&desc=Software%20Developer%20|%20New%20Grad%20|%20Communicator%20&descAlignY=60" width="100%"/>
 </div>
 
 <!-- About Me Panel -->
@@ -18,7 +18,7 @@
   <table>
     <tr>
       <td align="center" style="border: none; background: linear-gradient(90deg, #1E3A8A, #3B82F6, #6366F1, #8B5CF6, #A855F7); padding: 1px; border-radius: 10px;">
-        <div style="background-color: #0D1117; border-radius: 9px; padding: 15px;">
+        <div style="background-color: #0D1117; border-radius: 9px; padding: 15px; margin: 15px">
           <p align="center"> Hello, welcome to my GitHub! My name is Jacob and I am a software developer, gamer, coffee addict, gym bro and Pokemon lover. I basically exist in three places: at my PC, the gym, and a local cafe. </p>
         </div>
       </td>
