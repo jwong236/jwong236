@@ -14,8 +14,16 @@
   <img src="https://img.shields.io/badge/Phone-626--384--6780-1E3A8A?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
 </div>
   
-<div style="border-radius: 10px; padding: 15px; background: rgba(255, 255, 255, 0.1);">
-  <p align="center"> Hello, welcome to my GitHub! My name is Jacob and I am a software developer, gamer, coffee addict, gym bro and Pokemon lover. I basically exist in three places: at my PC, the gym, and a local cafe. </p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="border: none; background: linear-gradient(90deg, #1E3A8A, #3B82F6, #6366F1, #8B5CF6, #A855F7); padding: 1px; border-radius: 10px;">
+        <div style="background-color: #0D1117; border-radius: 9px; padding: 15px;">
+          <p align="center"> Hello, welcome to my GitHub! My name is Jacob and I am a software developer, gamer, coffee addict, gym bro and Pokemon lover. I basically exist in three places: at my PC, the gym, and a local cafe. </p>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
   
 <div align="center">
@@ -38,7 +46,7 @@
 
 <!-- GitHub Activity Panel -->
 <div align="center">
-  <h2>📊 GitHub Activity</h2>
+  <h2>GitHub Activity</h2>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jwong236&theme=tokyonight" alt="Contribution Summary" width="100%" />
 </div>
 
@@ -46,7 +54,7 @@
 
 <!-- Projects Panel -->
 <div align="center">
-  <h2>🚀 Featured Projects</h2>
+  <h2>Featured Projects</h2>
   <i>Check out my <a href="https://jwong236.github.io/">portfolio website</a> for detailed project descriptions and demos.</i>
   <br><br>
   
@@ -73,7 +81,7 @@
 
 <!-- Tech Stack Panel -->
 <div align="center">
-  <h2>💻 Tech Stack</h2>
+  <h2>Tech Stack</h2>
   
   <h3>Languages</h3>
   <p align="center">
@@ -118,7 +126,7 @@
 
 <!-- Resume Panel -->
 <div align="center">
-  <h2>📄 Resume</h2>
+  <h2>Resume</h2>
   <div align="center">
     <a href="Jacob_Wong_resume.pdf" target="_blank">
       <img src="https://img.shields.io/badge/View_My_Resume-3B82F6?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" />
